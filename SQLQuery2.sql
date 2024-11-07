@@ -1,0 +1,7 @@
+SELECT TOP (1000) [id]
+      ,[eng_name]
+      ,[email]
+      ,[faculty]
+      ,[type]
+      ,[user_name]
+  FROM [myDB].[dbo].[students]
